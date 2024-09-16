@@ -8,12 +8,6 @@ https://doi.org/10.1016/j.commatsci.2023.112607
 ## Abstract
 In this study, we identified the significant factors affecting adsorbate-induced segregation in single-atom alloy (SAA) surfaces by performing Density Functional Theory (DFT)-based calculations and machine learning (ML) methods. We used O and OH species, which are key reactants in oxygen reduction reactions (ORR), as test adsorbates. We constructed SAA surfaces using different transition metals (Ag, Au, Co, Cu, Ir, Ni, Pd, Pt, and Rh) and calculated their segregation energies with and without the adsorbates to predict the segregation tendency of the dopant atom. We examined a total of 44 features which comprised of the elemental, energetics, and electronic properties of the SAAs. We employed a two-stage feature selection to reduce the number of features to the most important features for model training. We found that the formation energies, metallic radius difference, the d-band centers of the dopant in the surface and subsurface layer, the difference in surface energy between the host and dopant atoms, and the difference in the total number of d-electrons between the host and dopant atoms influence the segregation energy of the dopant induced by O and OH. Using these selected features, we implemented linear regression (LR), support vector machine regression (SVR), Gaussian process regression (GPR), and extra trees regression (ETR) algorithms to predict the segregation energies in the presence of adsorbates. For both O- and OH-SAA systems, SVR models exhibited the best performance for predicting adsorbate-induced segregation energies. Among the surfaces we considered, we determined Rh-Au(1 1 1) as a potential catalyst for ORR based on the calculated adsorption energies of O and OH and segregation energies in the presence of these adsorbates.
 
-[//]: # Installation
-
-[//]: # You can download the data used in this study by cloning the git repository:
-[//]: #   ```sh
-[//]: #  git clone {LINK TO REPO}
-[//]: #   ```
 
 [//]: # (To install the required packages, use)
 
