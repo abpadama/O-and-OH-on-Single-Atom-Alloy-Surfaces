@@ -55,17 +55,17 @@ You can download the data used in this study by cloning the git repository:
 >
 > **Adsorption sites considered in this study**: hcp(h), top(t), bridge(h), fcc(f)
 >
-> ![Slab](./slab.png)
+> ![Slab](./images/slab.png)
 
 > ### Machine Learning
 > **Data**: 78 Rows
 > #### Naming Conventions for  Features:
-> ![Table-I](./Features-Table-I.png)
-> ![Table-II](./Features-Table-II.png)
+> ![Table-I](./images/Features-Table-I.png)
+> ![Table-II](./images/Features-Table-II.png)
 > #### Naming Conventions for  Adsorption Energy and Segregation Energy:
-> ![Table-III](./EadsSeg.png)
+> ![Table-III](./images/EadsSeg.png)
 > #### Machine Learning Models:
-> ![MLmodels](./ML-models.png)
+> ![MLmodels](./images/ML-models.png)
 
 
 
