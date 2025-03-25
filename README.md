@@ -49,8 +49,6 @@ In this study, we identified the significant factors affecting adsorbate-induced
 >
 > **Adsorption sites considered in this study**: hcp(h), top(t), bridge(h), fcc(f)
 >
-> ![Slab](./images/slab.png)
-
 > ### Machine Learning
 > **Data**: 78 Rows
 > #### Naming Conventions for  Features:
